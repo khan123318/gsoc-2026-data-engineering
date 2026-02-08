@@ -1,13 +1,26 @@
-# gsoc-2026-data-engineering
-This repository documents my focused preparation for Google Summer of Code (GSOC) 2026 
-with an emphasis on data engineering.
+GSOC 2026 — Data Engineering Preparation
 
-It includes:
-- Clean Python implementations for data processing
-- SQL queries for analytical and engineering use-cases
-- End-to-end ETL pipeline experiments
-- Notes and design decisions made while learning
+Overview
 
-The goal is not certificates, but production-ready thinking and 
-open-source contribution readiness.
+This repository documents my focused preparation for Google Summer of Code (GSOC) 2026, with a strong emphasis on data engineering fundamentals and open-source readiness.
+The goal of this repository is not certificates, but to demonstrate:
+Production-oriented thinking
+Consistent engineering practice
+Readiness to contribute to real-world open-source data systems
 
+Objectives
+
+Build a strong foundation in Python and SQL for data engineering
+Design and implement end-to-end ETL pipelines
+Understand data workflows, orchestration, and scalability concepts
+Transition from structured learning to open-source contributions
+Prepare a competitive GSOC 2026 proposal
+
+Tech Stack
+
+Programming: Python
+Databases: PostgreSQL, SQL
+Data Engineering Concepts: ETL pipelines, data processing
+Learning Platform: DataCamp
+
+Version Control: Git & GitHub
